@@ -1,0 +1,47 @@
+C:\Users\Julian\Desktop\Work\Projects\C#\MifareTopUp\MifareTopUp\bin\Debug\MifareTopUp.exe.config
+C:\Users\Julian\Desktop\Work\Projects\C#\MifareTopUp\MifareTopUp\bin\Debug\MifareTopUp.exe
+C:\Users\Julian\Desktop\Work\Projects\C#\MifareTopUp\MifareTopUp\bin\Debug\MifareTopUp.pdb
+C:\Users\Julian\Desktop\Work\Projects\C#\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Desktop\Work\Projects\C#\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.Form1.resources
+C:\Users\Julian\Desktop\Work\Projects\C#\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.Properties.Resources.resources
+C:\Users\Julian\Desktop\Work\Projects\C#\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.csproj.GenerateResource.Cache
+C:\Users\Julian\Desktop\Work\Projects\C#\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.exe
+C:\Users\Julian\Desktop\Work\Projects\C#\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.pdb
+C:\Users\User\Desktop\consultation project2\Toll top up (Adamu)\MifareTopUp\MifareTopUp\bin\Debug\MifareTopUp.exe.config
+C:\Users\User\Desktop\consultation project2\Toll top up (Adamu)\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.exe
+C:\Users\User\Desktop\consultation project2\Toll top up (Adamu)\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.pdb
+C:\Users\User\Desktop\consultation project2\Toll top up (Adamu)\MifareTopUp\MifareTopUp\bin\Debug\MifareTopUp.exe
+C:\Users\User\Desktop\consultation project2\Toll top up (Adamu)\MifareTopUp\MifareTopUp\bin\Debug\MifareTopUp.pdb
+C:\Users\User\Desktop\consultation project2\Toll top up (Adamu)\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\consultation project2\Toll top up (Adamu)\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.Form1.resources
+C:\Users\User\Desktop\consultation project2\Toll top up (Adamu)\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.Properties.Resources.resources
+C:\Users\User\Desktop\consultation project2\Toll top up (Adamu)\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Toll top up\MifareTopUp\MifareTopUp\bin\Debug\MifareTopUp.exe.config
+C:\Users\user\Desktop\Toll top up\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.exe
+C:\Users\user\Desktop\Toll top up\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.pdb
+C:\Users\user\Desktop\Toll top up\MifareTopUp\MifareTopUp\bin\Debug\MifareTopUp.exe
+C:\Users\user\Desktop\Toll top up\MifareTopUp\MifareTopUp\bin\Debug\MifareTopUp.pdb
+C:\Users\user\Desktop\Toll top up\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Toll top up\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.Form1.resources
+C:\Users\user\Desktop\Toll top up\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.Properties.Resources.resources
+C:\Users\user\Desktop\Toll top up\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.csproj.GenerateResource.Cache
+C:\Users\user\Documents\MSC project\Toll top up\MifareTopUp\MifareTopUp\bin\Debug\MifareTopUp.exe.config
+C:\Users\user\Documents\MSC project\Toll top up\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.exe
+C:\Users\user\Documents\MSC project\Toll top up\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.pdb
+E:\Live Projects\MifareTopUp\MifareTopUp\bin\Debug\MifareTopUp.exe.config
+E:\Live Projects\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.exe
+E:\Live Projects\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.pdb
+E:\Live Projects\MifareTopUp\MifareTopUp\bin\Debug\MifareTopUp.exe
+E:\Live Projects\MifareTopUp\MifareTopUp\bin\Debug\MifareTopUp.pdb
+E:\Live Projects\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.Form1.resources
+E:\Live Projects\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.Properties.Resources.resources
+E:\Live Projects\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.csproj.GenerateResource.Cache
+E:\Live Projects\MifareTopUp\MifareTopUp\bin\Debug\SelfTopup.mdf
+E:\Live Projects\MifareTopUp\MifareTopUp\bin\Debug\SelfTopup_log.ldf
+E:\Live Projects\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.HomePage.resources
+E:\Live Projects\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.Home.resources
+E:\Live Projects\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.HomeSelfTopUp.resources
+E:\Live Projects\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.AddBalance.resources
+E:\Live Projects\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.DeductBalance.resources
+E:\Live Projects\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.AdminLogs.resources
+E:\Live Projects\MifareTopUp\MifareTopUp\obj\Debug\MifareTopUp.csprojResolveAssemblyReference.cache
